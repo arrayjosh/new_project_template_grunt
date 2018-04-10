@@ -4,7 +4,8 @@
   "description": "Starter template with grunt script for building a basic site!",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "grunt"
   },
   "author": "",
   "license": "MIT",
